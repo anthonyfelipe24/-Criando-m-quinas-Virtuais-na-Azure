@@ -4,7 +4,7 @@
 
 ## 📝 Resumo do que foi feito
 
-Neste projeto, realizei a criação e configuração de uma máquina virtual na plataforma Microsoft Azure, com o objetivo de praticar os conceitos aprendidos durante as vídeo-aulas. Além disso, organizei este repositório com anotações, dicas e imagens para servir como material de apoio para futuros estudos ou implementações similares.
+Neste projeto, realizei a criação e configuração de uma máquina virtual na plataforma Microsoft Azure, com o objetivo de praticar os conceitos aprendidos durante as vídeo-aulas. Além disso, organizei este repositório com anotações, dicas para servir como material de apoio para futuros estudos ou implementações similares.
 
 ---
 
